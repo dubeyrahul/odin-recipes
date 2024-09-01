@@ -1,0 +1,28 @@
+* {
+    font-family: Futura, Bodoni, Helvetica, sans-serif;   
+}
+h1,
+h2,
+h3 {
+    color:chocolate;
+}
+ul,
+ol {
+    font-style: italic;
+}
+.main {
+    text-align: justify;
+}
+ul.main {
+    font-size: 32px;
+    list-style-position: inside;
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:purple;
+}
+a:hover{
+    color:orange;
+}
